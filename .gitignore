@@ -69,3 +69,8 @@ batch_analysis.md
 test_batch.py
 create_structure.py
 .pypirc
+github_markdown.py
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
