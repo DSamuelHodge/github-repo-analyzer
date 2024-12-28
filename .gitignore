@@ -74,3 +74,6 @@ github_markdown.py
 # Jupyter Notebook
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+
+# Generated Analysis Files
+*_analysis_*.md
